@@ -1,0 +1,38 @@
+
+npx create-react-app react-movies --template typescript
+
+npm install bootstrap@5.0 
+
+npm install react-router-dom@5.2  
+
+npm i --save-dev @types/react-router-dom
+-------------------React Forms------------------------------------------------------------------------
+npm i formik@2.2.9   
+-------------------React Form Validation--------------------------------------------------------------
+npm install yup@0.32.9
+-------------------React markdown Text Area Component------------------------------------------------
+npm i react-markdown typed-react-markdown
+-------------------React Map------------------------
+npm install --save-exact leaflet@1.7.1 react-leaflet@3.1.0 @react-leaflet/core@1.0.2
+
+npm i -D @types/leaflet
+-------------------React Autocomplete/Suggesion Textbox-----------------------------------------------
+npm i react-bootstrap-typeahead 
+
+npm i -D @types/react-bootstrap-typeahead
+------------------------------------------------------------------------------------------------------
+npm i axios@0.21.1   
+------------------------------------------------------------------------------------------------------
+npm i sweetalert2@10.16.0
+-----------------------------------
+npm i --save @fortawesome/fontawesome-svg-core
+  npm install --save @fortawesome/free-solid-svg-icons
+  npm install --save @fortawesome/react-fontawesome
+---------------------------------------
+
+ npm run build
+-----------------------
+Install firebase tool in cmd with admin previlage
+
+npm install -g firebase-tools
+---------------------------
